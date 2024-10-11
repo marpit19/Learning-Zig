@@ -1,2 +1,2 @@
-# Learning-Zig
-doing Learning Zig, an introduction to the Zig programming language by @karlseguin
+# Learning Zig
+doing Learning Zig, an introduction to the Zig programming language by [@karlseguin](https://github.com/karlseguin)
